@@ -43,7 +43,7 @@ class Main {
           System.out.println("Your outlook surprisingly says yes.");
         }
         case(9):{
-          System.out.println();
+          System.out.println("Bad idea to tell you now, try again never");
         }
     }
     scan.close();
